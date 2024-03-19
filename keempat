@@ -1,4 +1,4 @@
-[3:34 pm, 19/03/2024] Mananta Ti: #include <iostream>
+ #include <iostream>
 using namespace std;
 
 int main()
